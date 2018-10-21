@@ -1,4 +1,4 @@
-var fs = require('fs');
+﻿var fs = require('fs');
 var nodemailer = require('nodemailer');
 
 module.exports = {
@@ -9,11 +9,11 @@ module.exports = {
         database: 'qldd'
     },
     db_postgres: {
-        host: 'ec2-23-23-216-40.compute-1.amazonaws.com',
-        user: 'cjgmzlabuhqtfi',
-        password: 'd622e3da2a297c8ace6627c86463b44033c60f0c501ab16a545521d0b23cacf3',
+        host: 'ec2-54-204-14-96.compute-1.amazonaws.com',
+        user: 'risjtrwnifuhbo',
+        password: 'e32ac1f006a9d9fe4bd24021a8588106d9da03bc373f2a7b83668f0d6b8ada39',
         port:'5432',
-        database: 'depna5rf8ertn0'
+        database: 'd6185k4d9hnahb'
     },
     //db_postgres: {
     //    host: 'localhost',
