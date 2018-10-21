@@ -1,4 +1,4 @@
 export class AppConfig {
-    public apiHost = 'https://tpltesting.herokuapp.com/api';
-    public host = 'https://tpltesting.herokuapp.com';
+    public apiHost = 'https://webdiemdanh.herokuapp.com/api';
+    public host = 'https://webdiemdanh.herokuapp.com';
 }
